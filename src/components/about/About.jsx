@@ -41,9 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ipsa porro nemo earum eligendi 
-            odit quo quia in soluta, est exercitationem a optio omnis, explicabo quam blanditiis maiores
-            nihil itaque.
+          I have been passionate about technology since I was very young. In love with the cloud, faithful evangelist of automation and believer that the future is serverless. I enjoy my work to the fullest, I am detailed and always give the extra mile.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

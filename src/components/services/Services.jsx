@@ -17,32 +17,32 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Pipelines Design on GitHub Actions</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Pipelines Design on CircleCI or Jenkins</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Continuous Integration, Gitflow Design</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Analyze your delivery workflow</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Continuous Delivery, Gitflow Design</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Version Control</p>
             </li>
 
           </ul>
@@ -58,37 +58,37 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Cost Management and Estipulation</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet lol consectur elit</p>
+              <p>Resource Managing and Estipulation</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Implementation of Automated Process</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Security and Compliance advisory</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Third Party Integration</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Backup Implementation</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Infrastructure Cloud Management on GCP, AWS, Azure and others</p>
             </li>
 
           </ul>
@@ -104,32 +104,32 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Docker Oriented Infrastructure</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Kubernetes Infra</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Loadbalancing and Networking</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Web Application Firewall</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Blockchain Nodes</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum, dolor sit amet consectur elit</p>
+              <p>Web2 and Web3 Infrastructure</p>
             </li>
 
           </ul>
