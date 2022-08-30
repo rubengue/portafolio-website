@@ -19,7 +19,7 @@
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-sm: 90%;
 
 }
 
@@ -132,6 +132,7 @@ img {
 @media screen and (max-width: 600px) {
     .container {
         width: var(--container-width-sm);
+        height: auto;
     }
 
     section > h2{

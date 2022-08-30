@@ -18,7 +18,7 @@ const App = () => {
         <Experience />
         <Services />
         <Portafolio />
-        <Testimonials />
+        <Testimonials /> 
         <Contact />
         <Footer />
 
@@ -28,5 +28,3 @@ const App = () => {
 }
 
 export default App
-
-test
